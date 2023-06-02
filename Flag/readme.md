@@ -2,4 +2,4 @@
 
 ## tech stack :-html css and javascript 
 
-# netly: idyllic-mandazi-e70470.netlify.app
+# netly:https://idyllic-mandazi-e70470.netlify.app/
